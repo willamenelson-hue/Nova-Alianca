@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nova Aliança</string>
+    <string name="church_full_name">Igreja Batista Nova Aliança</string>
+    <string name="church_motto">Vivendo o amor de Deus e proclamando a Sua Palavra</string>
+    <string name="tab_home">Início</string>
+    <string name="tab_bible">Bíblia</string>
+    <string name="tab_hymns">Hinários</string>
+    <string name="tab_prayers">Orações</string>
+    <string name="tab_more">Mais</string>
+    <string name="nav_giving">Dízimos e Ofertas</string>
+    <string name="nav_plans">Planos de Leitura</string>
+    <string name="nav_quiz">Quiz Bíblico</string>
+    <string name="nav_maps">Mapas Bíblicos</string>
+    <string name="nav_events">Agenda &amp; Cultos</string>
+    <string name="nav_notes">Minhas Anotações</string>
+</resources>
